@@ -481,7 +481,6 @@
 	)
 	(embedded_fonts no)
 	(model "${AMZPATH}/3dmodels/AMz3D.3dshapes/XIAO-nRF52840 v15.step"
-		(hide yes)
 		(offset
 			(xyz -1.778 -6.096 0.381)
 		)
